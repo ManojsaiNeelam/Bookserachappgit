@@ -1,0 +1,15 @@
+C:\Users\nmsai\source\repos\ManojsaiNeelam\BookSearchAPI\BookSearchDataLibrary\bin\Debug\net8.0\BookSearchDataLibrary.deps.json
+C:\Users\nmsai\source\repos\ManojsaiNeelam\BookSearchAPI\BookSearchDataLibrary\bin\Debug\net8.0\BookSearchDataLibrary.dll
+C:\Users\nmsai\source\repos\ManojsaiNeelam\BookSearchAPI\BookSearchDataLibrary\bin\Debug\net8.0\BookSearchDataLibrary.pdb
+C:\Users\nmsai\source\repos\ManojsaiNeelam\BookSearchAPI\BookSearchDataLibrary\obj\Debug\net8.0\BookSearchDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmsai\source\repos\ManojsaiNeelam\BookSearchAPI\BookSearchDataLibrary\obj\Debug\net8.0\BookSearchDataLibrary.AssemblyInfoInputs.cache
+C:\Users\nmsai\source\repos\ManojsaiNeelam\BookSearchAPI\BookSearchDataLibrary\obj\Debug\net8.0\BookSearchDataLibrary.AssemblyInfo.cs
+C:\Users\nmsai\source\repos\ManojsaiNeelam\BookSearchAPI\BookSearchDataLibrary\obj\Debug\net8.0\BookSearchDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nmsai\source\repos\ManojsaiNeelam\BookSearchAPI\BookSearchDataLibrary\obj\Debug\net8.0\BookSearchDataLibrary.dll
+C:\Users\nmsai\source\repos\ManojsaiNeelam\BookSearchAPI\BookSearchDataLibrary\obj\Debug\net8.0\refint\BookSearchDataLibrary.dll
+C:\Users\nmsai\source\repos\ManojsaiNeelam\BookSearchAPI\BookSearchDataLibrary\obj\Debug\net8.0\BookSearchDataLibrary.pdb
+C:\Users\nmsai\source\repos\ManojsaiNeelam\BookSearchAPI\BookSearchDataLibrary\obj\Debug\net8.0\ref\BookSearchDataLibrary.dll
+C:\Users\nmsai\source\repos\ManojsaiNeelam\BookSearchAPI\BookSearchDataLibrary\bin\Debug\net8.0\BookSearchDataLibrary.runtimeconfig.json
+C:\Users\nmsai\source\repos\ManojsaiNeelam\BookSearchAPI\BookSearchDataLibrary\obj\Debug\net8.0\BookSearchDataLibrary.csproj.AssemblyReference.cache
+C:\Users\nmsai\source\repos\ManojsaiNeelam\BookSearchAPI\BookSearchDataLibrary\obj\Debug\net8.0\BookSearchDataLibrary.genruntimeconfig.cache
+C:\Users\nmsai\source\repos\ManojsaiNeelam\BookSearchAPI\BookSearchDataLibrary\obj\Debug\net8.0\BookSearchDataLibrary.sourcelink.json
